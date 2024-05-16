@@ -60,3 +60,5 @@ Steps followed:
  
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNTMwMmE0NGItODMxNy00MTEwLTlhYTYtMWI4M2RjN2ZmZDgzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
+
+![HR ](https://github.com/HariniAsok/HR-Analytics-/assets/144900954/37c65574-cde7-46c4-acf6-2f9ee9df0321)
